@@ -9,7 +9,7 @@ It will report the depth the solution was found,
 the number of nodes created, number of nodes examined, and the maximum
 size of the fringe.
 
-Solved goal states include: "123456789ABCDEF " or "123456789ABCDFE"
+Solved goal states include: "123456789ABCDEF " or "123456789ABC DFE"
 
 To run the program, please use the command line to travel to the src directory:
 	type 'make' to compile all java files then
