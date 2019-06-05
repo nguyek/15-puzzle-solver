@@ -11,8 +11,8 @@ import java.util.Stack;
  *
  */
 public class DepthLimited extends SearchType {
-	public Stack<Node> fringe;
-	public int limit;
+	protected Stack<Node> fringe;
+	protected int limit;
 	
 	/**
 	 * Constructor

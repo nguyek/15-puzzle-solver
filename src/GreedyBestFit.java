@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
  *
  */
 public class GreedyBestFit extends SearchType {
-	public boolean h1;
+	protected boolean h1;
 
 	public GreedyBestFit(String state, boolean useH1) {
 		super(state);
