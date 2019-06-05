@@ -11,7 +11,8 @@ size of the fringe.
 
 Solved goal states include: "123456789ABCDEF " or "123456789ABCDFE"
 
-To run the program, please use the command line:
+To run the program, please use the command line to travel to the src directory:
+	type 'make' to compile all java files then
 
 	java FifteenProblemMain ["start state"] [search_technique] [option]
 
